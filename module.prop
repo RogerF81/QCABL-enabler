@@ -1,7 +1,7 @@
-id=template
-name=Template Module
+id=qcabl
+name=QCABL enabler
 version=v1
 versionCode=1
 author=topjohnwu
-description=A short description
+description=Enables Qualcomm's Content Adaptive Backlight and runs the UI after reboot.
 template=1400
